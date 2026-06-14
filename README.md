@@ -1,4 +1,4 @@
-Coded Aperture & Richardson-Lucy Image Restoration for Deep-Sky Objects
+# Coded Aperture & Richardson-Lucy Image Restoration
 
 Accurate image restoration of deep-sky objects is critical in astronomical imaging, where traditional methods often fail to resolve fine details due to system blur. This repository implements a framework combining **Coded Aperture Systems** and **Richardson-Lucy Deconvolution** to enhance image reconstruction fidelity and achieve precise localization of celestial objects.
 
